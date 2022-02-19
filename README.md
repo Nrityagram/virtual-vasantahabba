@@ -1,12 +1,12 @@
-![logo](https://repository-images.githubusercontent.com/302921248/58478900-0adf-11eb-8f0b-74be58a898ef)
+![logo](https://res.cloudinary.com/nrityagram/image/upload/v1645254546/vasantahabba-flash-screen_c6xjem.png)
 
-# 11ty Sass Skeleton
+# Subdomain: Virtual Vasantahabba
 
 Featuring absolutely nothing beyond a base HTML5 template and the essential setup to watch and compile your Sass alongside 11ty.
 
 Includes minifiying and autoprefixing of styles `postbuild`.
 
-<small>Created by [@5t3ph](https://twitter.com/5t3ph)</small>
+<small>Created by [@vodkarani](https://twitter.com/vodkarani)</small>
 
 ## Development Scripts
 
